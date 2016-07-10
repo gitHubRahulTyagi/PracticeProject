@@ -27,7 +27,7 @@ public class test_1 {
 	@BeforeMethod
 	public void Openbrowser(){
 		
-		System.out.println("Open broswser");		
+		System.out.println("Open broswser first");		
 	}
 	
 	@BeforeTest
